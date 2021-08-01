@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="AcccountingDetail.aspx.cs" Inherits="AccountingNote.SystemAdmin.AcccountingDetail" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="AcccountingDetail.aspx.cs" Inherits="TryWebForm.SystemAdmin.AcccountingDetail" %>
 
 <!DOCTYPE html>
 

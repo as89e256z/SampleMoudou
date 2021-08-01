@@ -6,7 +6,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using AccountingNote.DBSource;
 
-namespace AccountingNote
+namespace TryWebForm
 {
     public partial class Login : System.Web.UI.Page
     {

@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\TryWebForm\AccountingNote.DBSource\bin\Debug\AccountingNote.DBSource.dll
+C:\Users\USER\source\repos\TryWebForm\AccountingNote.DBSource\bin\Debug\AccountingNote.DBSource.pdb
+C:\Users\USER\source\repos\TryWebForm\AccountingNote.DBSource\obj\Debug\AccountingNote.DBSource.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TryWebForm\AccountingNote.DBSource\obj\Debug\AccountingNote.DBSource.dll
+C:\Users\USER\source\repos\TryWebForm\AccountingNote.DBSource\obj\Debug\AccountingNote.DBSource.pdb

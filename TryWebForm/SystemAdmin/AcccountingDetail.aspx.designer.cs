@@ -7,7 +7,7 @@
 // </自動產生的>
 //------------------------------------------------------------------------------
 
-namespace AccountingNote.SystemAdmin
+namespace TryWebForm.SystemAdmin
 {
 
 

@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace AccountingNote.SystemAdmin
+namespace TryWebForm.SystemAdmin
 {
     public partial class UserInfo : System.Web.UI.Page
     {
